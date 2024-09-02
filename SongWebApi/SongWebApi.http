@@ -1,0 +1,6 @@
+@SongWebApi_HostAddress = http://localhost:5123
+
+GET {{SongWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

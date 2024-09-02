@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|c:\\users\\asus\\source\\repos\\songwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|c:\\users\\asus\\source\\repos\\songwebapi\\services\\songservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|solutionrelative:services\\songservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|c:\\users\\asus\\source\\repos\\songwebapi\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|solutionrelative:controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|c:\\users\\asus\\source\\repos\\songwebapi\\models\\songmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|solutionrelative:models\\songmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|c:\\users\\asus\\source\\repos\\songwebapi\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|solutionrelative:controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|c:\\users\\asus\\source\\repos\\songwebapi\\services\\genreservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5E2D10-41A6-43BA-9714-DC7113B2A1C7}|SongWebApi.csproj|solutionrelative:services\\genreservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SongModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Models\\SongModel.cs",
+              "RelativeDocumentMoniker": "Models\\SongModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Models\\SongModel.cs",
+              "RelativeToolTip": "Models\\SongModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:48:33.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:43:18.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenreServices.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Services\\GenreServices.cs",
+              "RelativeDocumentMoniker": "Services\\GenreServices.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Services\\GenreServices.cs",
+              "RelativeToolTip": "Services\\GenreServices.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:40:42.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SongServices.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Services\\SongServices.cs",
+              "RelativeDocumentMoniker": "Services\\SongServices.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Services\\SongServices.cs",
+              "RelativeToolTip": "Services\\SongServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:55:11.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SongController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Controllers\\SongController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SongController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Controllers\\SongController.cs",
+              "RelativeToolTip": "Controllers\\SongController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:53:41.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SongWebApi\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "Controllers\\GenreController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:36:47.624Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

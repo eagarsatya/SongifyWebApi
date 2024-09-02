@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Songify.Entities\bin\Debug\net8.0\Songify.Entities.deps.json
+C:\Users\Asus\source\repos\Songify.Entities\bin\Debug\net8.0\Songify.Entities.dll
+C:\Users\Asus\source\repos\Songify.Entities\bin\Debug\net8.0\Songify.Entities.pdb
+C:\Users\Asus\source\repos\Songify.Entities\obj\Debug\net8.0\Songify.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Songify.Entities\obj\Debug\net8.0\Songify.Entities.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Songify.Entities\obj\Debug\net8.0\Songify.Entities.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Songify.Entities\obj\Debug\net8.0\Songify.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Songify.Entities\obj\Debug\net8.0\Songify.Entities.dll
+C:\Users\Asus\source\repos\Songify.Entities\obj\Debug\net8.0\refint\Songify.Entities.dll
+C:\Users\Asus\source\repos\Songify.Entities\obj\Debug\net8.0\Songify.Entities.pdb
+C:\Users\Asus\source\repos\Songify.Entities\obj\Debug\net8.0\ref\Songify.Entities.dll
+C:\Users\Asus\source\repos\Songify.Entities\bin\Debug\net8.0\Songify.Entities.runtimeconfig.json
+C:\Users\Asus\source\repos\Songify.Entities\obj\Debug\net8.0\Songify.Entities.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Songify.Entities\obj\Debug\net8.0\Songify.Entities.genruntimeconfig.cache
