@@ -12,6 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<GenreServices>();
+builder.Services.AddScoped<SongServices>();
 
 builder.Services.AddDbContext<SongifyContext>(options =>
 {
