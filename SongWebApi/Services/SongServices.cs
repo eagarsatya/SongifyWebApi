@@ -25,6 +25,22 @@ namespace SongWebApi.Services
             return songs;
         }
 
+        //public List<SongWithGenreModel> GetSongsWithGenres()
+        //{
+        //    var songsWithGenres = from song in _db.Songs
+        //                          join genre in _db.Genres on song.GenreId equals genre.GenreId
+        //                          select new SongWithGenreModel
+        //                          {
+        //                              SongId = song.SongId,
+        //                              Title = song.Title,
+        //                              ReleasedDate = song.ReleasedDate,
+        //                              GenreName = genre.Name
+        //                          };
+
+        //    return [.. songsWithGenres];
+        //}
+
+
         public async Task<bool> CreateSong(SongModel data)
         {
             var song = new Song

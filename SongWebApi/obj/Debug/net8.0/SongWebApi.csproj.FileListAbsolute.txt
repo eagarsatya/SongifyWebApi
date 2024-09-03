@@ -70,3 +70,4 @@ C:\Users\Asus\source\repos\SongWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\S
 C:\Users\Asus\source\repos\SongWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Asus\source\repos\SongWebApi\bin\Debug\net8.0\Songify.Entities.dll
 C:\Users\Asus\source\repos\SongWebApi\bin\Debug\net8.0\Songify.Entities.pdb
+C:\Users\Asus\source\repos\SongWebApi\obj\Debug\net8.0\SongWebApi.sourcelink.json

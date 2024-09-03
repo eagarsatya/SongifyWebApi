@@ -22,6 +22,13 @@ namespace SongWebApi.Controllers
             return Ok(song);
         }
 
+        //[HttpGet]
+        //public async Task<IActionResult> GetSongWithGenre()
+        //{
+        //    var song = _services.GetSongsWithGenres();
+        //    return Ok(song);
+        //}
+
         [HttpPost("create")]
         public async Task<IActionResult> CreateSong([FromBody] SongModel data)
         {

@@ -84,6 +84,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SongWebApi.Controllers.SongWithGenreController",
+    "Method": "GetSongWithGenre",
+    "RelativePath": "api/song-with-genre",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SongWebApi.Controllers.SongController",
     "Method": "DeleteSong",
     "RelativePath": "api/song/{id}",
