@@ -13,6 +13,44 @@ namespace SongifyWebApi.Services
             this._db = songifyContext;
         }
 
+        public List<SongModelWithGenreName> GetSongGenre()
+        {
+            var songTable = _db.Songs;
+            var genreTable = _db.Genres;
+
+            // In Lambda expression
+            //var songName = songTable.Join(genreTable, song => song.GenreId, genre => genre.GenreId,
+            //                              (song, genre) => new SongModelWithGenreName
+            //                              {
+            //                                  SongId = song.SongId,
+            //                                  Title = song.Title,
+            //                                  ReleasedDate = song.ReleasedDate,
+            //                                  GenreName = genre.Name,
+            //                                  CreatedAt = song.CreatedAt,
+            //                                  CreatedBy = song.CreatedBy,
+            //                                  UpdatedAt = song.UpdatedAt,
+            //                                  UpdatedBy = song.UpdatedBy,
+            //                              }).ToList();
+
+            // In LINQ query
+            var songName = from song in songTable
+                           join genre in genreTable on song.GenreId equals genre.GenreId
+                           select new SongModelWithGenreName
+                           {
+                               SongId = song.SongId,
+                               Title = song.Title,
+                               ReleasedDate = song.ReleasedDate,
+                               GenreName = genre.Name,
+                               CreatedAt = song.CreatedAt,
+                               CreatedBy = song.CreatedBy,
+                               UpdatedAt = song.UpdatedAt,
+                               UpdatedBy = song.UpdatedBy,
+                           };
+            var listSongName = songName.ToList();
+
+            return listSongName;
+        }
+
         public List<SongModel> GetSong()
         {
             //var aGenre = new GenreModel()

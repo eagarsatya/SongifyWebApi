@@ -16,6 +16,14 @@ namespace SongifyWebApi.Controllers
             _services = songServices;
         }
 
+        [HttpGet("get-song-genre")]
+        public async Task<IActionResult> GetSongGenre()
+        {
+            var songName = this._services.GetSongGenre();
+
+            return Ok(songName);
+        }
+
         [HttpGet]
         public async Task<IActionResult> GetSong()
         {
